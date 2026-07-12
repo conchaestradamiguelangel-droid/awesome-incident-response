@@ -72,6 +72,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Velociraptor](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
 * [Zentral](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+* [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous IDS/IPS with nine layered defenses (anomaly detection, honeypot, AMTD, forensics, ML learning). Every alert signed with ML-DSA-87 post-quantum cryptography (NIST FIPS 204). Self-hosted, GPL-3.0.
 
 ### Books
 
